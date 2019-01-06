@@ -2,29 +2,30 @@
 
 http://yann.lecun.com/exdb/mnist/
 
-## source
-https://github.com/oreilly-japan/deep-learning-from-scratch
-
-## version
+# version
 
 - Python 3.6
 - pipenv
 
-## package install
+# package install
 
 ```
 pipenv install --dev
 ```
 
-## flake8 or autopep8
+# flake8 or autopep8
 
 ```
 pipenv run lint
 pipenv run format
 ```
 
-## run
+# run
 
 ```
 pipenv run python mnist_divide.py
 ```
+
+# source
+
+https://github.com/oreilly-japan/deep-learning-from-scratch
