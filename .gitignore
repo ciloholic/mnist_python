@@ -1,0 +1,6 @@
+.venv
+.vscode
+/train_img
+/test_img
+__pycache__
+*.gz
